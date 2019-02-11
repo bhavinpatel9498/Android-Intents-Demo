@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Feb 06 11:53:24 CST 2019
+1.base=D\:\\IITData\\Sem4\\TA Work\\IntentsDemo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\IITData\\Sem4\\TA Work\\IntentsDemo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+1.path=classes.dex
